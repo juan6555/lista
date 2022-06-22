@@ -13,3 +13,5 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1295461826.m3u8
 #EXTINF:-1 ,canal neox tv salta
 https://streamcasthd.com:19360/sonicaargentina/sonicaargentina.m3u8
+#EXTINF:-1 ,canal nortevision 10
+https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
